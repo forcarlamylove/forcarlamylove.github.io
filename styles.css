@@ -1,0 +1,15 @@
+/* styles.css */
+
+body {
+    background-image: url('carlawebsite.jpeg');
+    background-size: 50% auto; /* Set the width to 50% and auto for the height to maintain aspect ratio */
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    font-size: 1.5em; 
+    padding: 10px 20px; 
+}
